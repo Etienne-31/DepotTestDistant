@@ -1,0 +1,30 @@
+{
+    "Projects" : 
+       [ {
+        "Project_name":"Projet1",
+        "Librairies":[
+            {
+                "name":"Librairie 1",
+                "Version":"V1",
+                "Description":"Description l1"
+            },
+            {
+                "name":"Librairie 2",
+                "Version":"V1",
+                "Description":"Description l2"
+            }
+        ],
+        "Serveur":[
+            {
+                "name":"Test",
+                "url":"https://moodle.insa-toulouse.fr/mod/page/view.php?id=59516"
+            },
+            {
+                "name":"Integration",
+                "url":"https://moodle.insa-toulouse.fr/pluginfile.php/128384/mod_resource/content/7/PDLA.pdf"
+            }
+        ]
+
+        }]
+    
+}

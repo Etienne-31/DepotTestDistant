@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-"?>
+    <Projects>
+        <Projet>
+            <Project_name>Projet1</Project_name>
+
+            <Librairies>
+                <Librairie>
+                    <Name> Librairie 1 </Name>
+                    <Version> V1 </Version>
+                    <Description> Description l1</Description>
+                </Librairie>
+
+                 <Librairie>
+                    <Name> Librairie 2 </Name>
+                    <Version> V1 </Version>
+                    <Description> Description l2 </Description>
+                </Librairie>
+            </Librairies>
+
+            <Serveurs>
+                <Serveur>
+                    <name>Test</name>
+                    <Url>https://moodle.insa-toulouse.fr/mod/page/view.php?id=59516</Url>
+                </Serveur>
+                <Serveur>
+                    <name>Integration</name>
+                    <Url>https://moodle.insa-toulouse.fr/pluginfile.php/128384/mod_resource/content/7/PDLA.pdf</Url>
+                </Serveur>
+                <Serveur>
+                    <name>Production</name>
+                    <Url>https://moodle.insa-toulouse.fr/pluginfile.php/128384/mod_resource/content/7/PDLA.pdf</Url>
+                </Serveur>
+            </Serveurs>
+        </Projet>
+
+    </Projects>
